@@ -1,5 +1,5 @@
 #include <ESP8266WiFi.h>
-
+//author Akshay
 //IP or name of address root: ie: google.com
 //NOT google.com/nothing/after/the/dotcom.html
 const char* hostGet = "mydatasite.com"; 
